@@ -1,0 +1,4 @@
+[package]
+name = "qotd"
+version = "0.1.0"
+authors = ["Mike English <mike.english@gmail.com>"]
