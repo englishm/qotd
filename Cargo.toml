@@ -2,3 +2,9 @@
 name = "qotd"
 version = "0.1.0"
 authors = ["Mike English <mike.english@gmail.com>"]
+description = "An implementation of RFC 865"
+repository = "https://github.com/englishm/qotd"
+keywords = ["rfc865", "qotd", "quote"]
+readme = "README.md"
+license = "MIT"
+
